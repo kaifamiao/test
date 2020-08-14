@@ -48,7 +48,8 @@ MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件，目�
 
 如果你喜欢 MWeb，想让它变得更好，你可以：
 
-1. 推荐 MWeb，让更多的人知道。
-2. 给我们发反馈和建议：<coderforart+2333@gmail.com>
-3. 在 Mac App Store 上评价 （如果是在 MAS 上购买的话）。
 
+# test
+# test
+# test
+# test

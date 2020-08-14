@@ -50,6 +50,12 @@ MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件，目�
 
 
 # test
-# test
-# test
-# test
+
+
+ echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kaifamiao/test.git
+git push -u origin master
+                

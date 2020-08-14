@@ -49,10 +49,10 @@ MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件，目�
 如果你喜欢 MWeb，想让它变得更好，你可以：
 
 
-# test
+# command
 
 
- echo "# test" >> README.md
+> echo "# test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
